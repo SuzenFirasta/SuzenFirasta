@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suzen Malik Firasta</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/user-attachments/assets/cb7ece07-41a4-41e4-b97b-9296d8a0b231)](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 
 - 🔍 **Explore the World of Data with Me!** 
