@@ -1,4 +1,4 @@
-![logo](https://github.com/SuzenFirasta/SuzenFirasta/blob/main/image.png)
+![logo](https://github.com/SuzenFirasta/SuzenFirasta/blob/main/banner2.gif)
 <h1 align="center">Hi 👋, I'm Suzen Malik Firasta</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 
