@@ -11,7 +11,7 @@
 
 **I'm passionate about all things data science. Dive into topics like Data Analysis, Machine Learning, Deep Learning, Natural Language Processing, and Big Data Analysis. Curious about the tools and techniques that power these fields? Ask away!**
 
-- 📫 How to reach me **suzen.firasta4483@gmail.com**
+- 📫 How to reach me **suzenfirasta0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
